@@ -5,7 +5,7 @@
 # turner.art
 
 ## Website
-[turner.art](https://turner.art)
+[Turner AI Photo Editor](https://turner.art)
 
 ## Introduction
 Turner is a free AI image editor powered by Qwen. It allows users to edit images directly using natural language prompts—no account registration required, watermark-free exports, and unlimited usage.
