@@ -1,6 +1,6 @@
 # turner.art
 ## 网站地址
-[Turner AI Photo Editor](https://turner.art)
+[AI Photo Editor](https://turner.art)
 
 ## 项目介绍
 Turner 是一款基于 Qwen 的免费 AI 图像编辑器。支持用户通过提示词直接修改图片，无需注册、无水印导出，不限使用次数。
