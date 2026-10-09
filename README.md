@@ -11,13 +11,13 @@
 Turner is a free AI image editor powered by Qwen. It allows users to edit images directly using natural language prompts—no account registration required, watermark-free exports, and unlimited usage.
 
 ## Why Turner?
-Most AI image editing tools currently on the market come with strict usage limits or intrusive watermarks, and often focus heavily on text-to-image generation rather than intuitive editing. 
+Most AI image editing tools currently on the market come with strict usage limits or intrusive watermarks. 
 Therefore, I independently built this zero-barrier web tool to make everyday image processing and editing more accessible, free, and efficient for everyone.
 
 ## Key Features
 - **Prompt-Based Editing**: Change backgrounds, adjust lighting and colors, edit embedded text, switch perspectives, and more using plain text prompts.
 - **Ready Out of the Box**: No registration required. Open the website, upload your photo, and start editing immediately.
-- **Watermark-Free Export**: Download high-resolution, watermark-free final images directly at no cost.
+- **Watermark-Free Export**: Download watermark-free final images directly at no cost.
 - **Unlimited Usage**: Edit as many photos as you need without worrying about running out of credits.
 
 ## Target Audience
