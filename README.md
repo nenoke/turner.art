@@ -27,4 +27,4 @@ E-commerce sellers (white background cutouts, product background swaps, scene re
 
 | Original | Prompt: Bird's-eye view |
 | :---: | :---: |
-| ![Original](images/original.jpg) | ![Bird's-eye view](images/birdview.jpg) |
+| <img width="380" alt="Origianl" src="https://github.com/user-attachments/assets/2502c32b-5b20-4091-bffc-d8d204b50b5e" /> | <img width="380" alt="Bird's-eye view" src="https://github.com/user-attachments/assets/d6f04519-7059-4ae0-8d9e-2b5114aa3e65" /> |
