@@ -1,25 +1,30 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a> | <a href="README_zh.md"><b>简体中文</b></a>
+</p>
+
 # turner.art
 
-## 项目地址
-[https://turner.art](https://turner.art)
+## Website
+[turner.art](https://turner.art)
 
-## 项目介绍
-Turner 是一款基于 Qwen 的免费 AI 图像编辑器。支持用户通过提示词直接修改图片，无需注册、无水印导出，不限使用次数。
+## Introduction
+Turner is a free AI image editor powered by Qwen. It allows users to edit images directly using natural language prompts—no account registration required, watermark-free exports, and unlimited usage.
 
-## 为什么开发Turner ?
-目前市面上的 AI 图像编辑工具大多存在次数限制或强加水印的问题，且多数操作偏向文生图。
-因此我独立开发了这款零门槛的网页端工具，希望能让大家日常处理、修改图片时更自由高效。
+## Why Turner?
+Most AI image editing tools currently on the market come with strict usage limits or intrusive watermarks, and often focus heavily on text-to-image generation rather than intuitive editing. 
+Therefore, I independently built this zero-barrier web tool to make everyday image processing and editing more accessible, free, and efficient for everyone.
 
-## 核心特点
-- **自然语言修图**：支持通过 Prompt 更换背景、调整光影色彩、修改主体文字、切换视角等。
-- **开箱即用**：无需注册账号，打开网页即可直接上传编辑。
-- **无水印导出**：编辑完成后可直接免费下载高清无水印成图。
-- **不限使用次数**：日常修图无需担心额度耗尽。
+## Key Features
+- **Prompt-Based Editing**: Change backgrounds, adjust lighting and colors, edit embedded text, switch perspectives, and more using plain text prompts.
+- **Ready Out of the Box**: No registration required. Open the website, upload your photo, and start editing immediately.
+- **Watermark-Free Export**: Download high-resolution, watermark-free final images directly at no cost.
+- **Unlimited Usage**: Edit as many photos as you need without worrying about running out of credits.
 
-## 适用人群
-电商卖家（白底/换背景/换场景）、内容创作者（调光调色/视变换）、设计营销人员及日常图片修改。
+## Target Audience
+E-commerce sellers (white background cutouts, product background swaps, scene replacements), content creators (lighting and color grading, perspective shifts), designers, marketers, and everyday photo editing.
 
-## 效果图
-| 原图 | 提示词：俯瞰视角 |
+## Showcase
+
+| Original | Prompt: Bird's-eye view |
 | :---: | :---: |
-| <img width="380" alt="原图" src="https://github.com/user-attachments/assets/2502c32b-5b20-4091-bffc-d8d204b50b5e" /> | <img width="380" alt="俯瞰视角" src="https://github.com/user-attachments/assets/d6f04519-7059-4ae0-8d9e-2b5114aa3e65" /> |
+| ![Original](images/original.jpg) | ![Bird's-eye view](images/birdview.jpg) |
